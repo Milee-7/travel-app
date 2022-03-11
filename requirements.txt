@@ -1,0 +1,15 @@
+asgiref==3.4.1
+cachelib==0.6.0
+click==8.0.3
+colorama==0.4.4
+Django==4.0.1
+Flask==2.0.2
+Flask-MySQLdb==1.0.1
+Flask-Session==0.4.0
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+mysqlclient==2.1.0
+sqlparse==0.4.2
+tzdata==2021.5
+Werkzeug==2.0.2
